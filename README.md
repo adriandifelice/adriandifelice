@@ -2,10 +2,11 @@
 
 
 
-### Hi Colleagues!  👋 
+### Hi!  👋 
 
-- :bread: I’m currently working on Doughy, an app connecting bakeries with customers looking for fresh baked goods. 
-- :couple: I’m collaborating in trademon.io, an app to sell & trade digital game items.
+I’m currently working on the following web/mobile applications:
+   - :bread:  Doughy, an app connecting bakeries with customers looking for fresh baked goods. 
+   - :video_game: trademon.io, collaborating on an app to sell & trade digital game items.
 
 
 <!--
@@ -16,8 +17,9 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ 
+Fun fact: I used to be an aspiring professional tennis player :tennis: :tennis: Also enjoy bread baking 
+
 -->
 ## 🧰 Languages and Tools:
 <p align="center"> 
@@ -36,4 +38,3 @@ Here are some ideas to get you started:
 
 
 
-Fun fact: I used to be an aspiring professional tennis player :tennis: :tennis: Also enjoy bread baking 
