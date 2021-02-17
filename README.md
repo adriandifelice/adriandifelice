@@ -4,6 +4,8 @@
 
 ### Hi!  👋 
 
+I'm a Javascript developer with passion for startups and entrepreneurship. I also enjoy learning new technologies as it opens new frontiers and capabilities for applications.
+
 I’m currently working on the following web/mobile applications:
    - :bread:  Doughy, an app connecting bakeries with customers looking for fresh baked goods. 
    - :video_game: trademon.io, collaborating on an app to sell & trade digital game items.
