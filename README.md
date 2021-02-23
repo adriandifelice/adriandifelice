@@ -23,6 +23,11 @@ Here are some ideas to get you started:
 Fun fact: I used to be an aspiring professional tennis player :tennis: :tennis: Also enjoy bread baking 
 
 -->
+## Fun fact: 
+I used to be a professional tennis player :tennis: 
+... I also enjoy bread baking 
+
+
 ## 🧰 Languages and Tools:
 <p align="center"> 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDb" height="40" style="vertical-align:top; margin:4px">
