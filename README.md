@@ -25,7 +25,7 @@ Fun fact: I used to be an aspiring professional tennis player :tennis: :tennis: 
 -->
 ## Fun fact: 
 I used to be a professional tennis player :tennis: 
-... I also enjoy bread baking 
+
 
 
 ## 🧰 Languages and Tools:
